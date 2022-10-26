@@ -4,10 +4,11 @@ Una api simple, construida para poder hacer un seguimiento sobre turnos de traba
 ## Uso de la API
 La base de datos fue creada mediante entity framework con un code first aproach y utilizando sql server.
 
-GET: /api/Shifts
-POST: ​/api​/Shifts
-PUT: /api/Shifts/{id}
-DELETE: /api/Shifts/{id}
+GET: /api/Shifts/getall
+GET: /api/Shifts/{id}
+POST: /api/Shifts/post
+PUT: /api/Shifts/update/{id}
+DELETE: /api/Shifts/delete/{id}
 
 ## Aplicacion de consola
 
