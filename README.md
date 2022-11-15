@@ -1,5 +1,5 @@
 # ShiftLoggerAPI
-Una api simple, construida para poder hacer un seguimiento sobre turnos de trabajo.
+Una api construida para poder hacer un seguimiento sobre turnos de trabajo.
 
 ## Uso de la API
 La base de datos fue creada mediante entity framework con un code first aproach y utilizando sql server.
