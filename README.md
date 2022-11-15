@@ -18,5 +18,3 @@ A - Agrega un nuevo turno.
 U - Edita un turno existente mediante ID.
 D - Elimina un turno por id
 
-# Pensamientos finales
-Gracias a este proyecto pude terminar de comprender el concepto de un API REST, construyendo diferentes end points y luego consumiendolos desde otra aplicacion.
